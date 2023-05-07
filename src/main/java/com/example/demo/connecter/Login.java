@@ -19,7 +19,5 @@ public class Login {
         return "{\n \"msg\":   \"success\": \"token\":" + password + "}";
     }
 
-    
-
 
 }
