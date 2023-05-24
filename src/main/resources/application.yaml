@@ -1,0 +1,14 @@
+server:
+  port: 9090
+
+# mysql configuration
+# url ?????3306???????????
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/nwy?serverTimezone=GMT%2b8
+    username: root
+    password: nwy0522.
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+
